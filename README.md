@@ -1,4 +1,4 @@
-<img align="left" width="60px"  src="https://raw.githubusercontent.com/BOTyuri71/BOTyuri71/main/my_avatar.png" alt="Avatar"/>
+<img align="left" width="110px"  src="https://raw.githubusercontent.com/BOTyuri71/BOTyuri71/main/my_avatar.png" alt="Avatar"/>
 
 <h3>Hi, I'm Guilherme! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExend6M2NqcG0yOGhkYzdsNWVreXAxa3o4dWc4MjVvZmh6ZWtmZTVobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/66rL8PmB42HOn3tgZe/giphy.gif" width="28"></h3>
 
