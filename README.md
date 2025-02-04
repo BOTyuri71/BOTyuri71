@@ -9,6 +9,6 @@
 
 I'm a software engineer from Viana do Castelo, Portugal. I enjoy learning, contemplating, and bringing innovative ideas to life. My main areas of interest are web development, computer networks, and computer graphics.
 
-## Around here
+## GitHub Stats
 
 <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BOTyuri71&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
