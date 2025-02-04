@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a software engineer student from Viana do Castelo, Portugal. I enjoy learning, contemplating, and bringing innovative ideas to life. My main areas of interest are web development, computer networks, and computer graphics.
+I'm a software engineer from Viana do Castelo, Portugal. I enjoy learning, contemplating, and bringing innovative ideas to life. My main areas of interest are web development, computer networks, and computer graphics.
 
 ## Around here
 
